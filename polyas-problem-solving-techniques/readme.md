@@ -16,7 +16,7 @@
 
 ## Before we get started:
 
-<details>
+<details open>
     <summary>What is an algorithm?</summary> <br />
 
 Simple definition: Procedure used for solving a problem.
@@ -39,7 +39,7 @@ let output = sum(5, 7);
 ```
 </details>
 
-<details>
+<details open>
     <summary>Why is learning problem solving techniques important?</summary> <br />
     
 - Your mind can go blank when put on the spot to solve a problem. An example would be during an interview. This will give you an instinctual fallback under pressure.
@@ -54,7 +54,7 @@ let output = sum(5, 7);
 
 ### Resource: [PDF](https://math.berkeley.edu/~gmelvin/polya.pdf)
 
-<details>
+<details open>
 <summary>First Principle</summary>
     
     Understand the problem
@@ -71,7 +71,7 @@ let output = sum(5, 7);
     Are there any other cases that you can think of that you may want to handle?
     Can you write out an example or two of the input(s) and output for each case you came up with?
 </details>
-<details>
+<details open>
     <summary>Second Principle</summary>
 
     Devise a plan
@@ -81,7 +81,7 @@ let output = sum(5, 7);
     Is there another approach that could solve this problem?
 
 </details>
-<details>
+<details open>
     <summary>Third Principle</summary>
 
     Carry out the plan
@@ -92,7 +92,7 @@ let output = sum(5, 7);
     Will you have to create a new plan?
 
 </details>
-<details>
+<details open>
     <summary>Fourth Principle</summary>
 
     Look back
