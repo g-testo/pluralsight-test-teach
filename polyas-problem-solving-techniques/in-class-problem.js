@@ -14,7 +14,7 @@
 // How many input values will the algorithm expect to receive?
 // What data type are the inputs?
 // What data type and what shape is the output?
-// Is there anything you don't understand that you may have Google?
+// Is there anything you don't understand that you may have to Google?
 
 // What is the good case for solving the problem?
 // What kind of edge cases can you think of?

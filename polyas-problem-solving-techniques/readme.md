@@ -64,12 +64,12 @@ let output = sum(5, 7);
     How many input values will the algorithm expect to receive?
     What data type are the inputs?
     What data type and what shape is the output?
-    Is there anything you don't understand that you may have Google?
+    Is there anything you don't understand that you may have to Google?
 
     What is the good case for solving the problem?
     What kind of edge cases can you think of?
     Are there any other cases that you can think of that you may want to handle?
-    Can you write out an example or two of input(s) and output for each case you came up with?
+    Can you write out an example or two of the input(s) and output for each case you came up with?
 </details>
 <details>
     <summary>Second Principle</summary>
@@ -78,6 +78,7 @@ let output = sum(5, 7);
 
     Are there any helper methods that come to mind when understanding the problem?
     Are you able to pseudocode an algorithm that meets all of the cases you came up with?
+    Is there another approach that could solve this problem?
 
 </details>
 <details>
