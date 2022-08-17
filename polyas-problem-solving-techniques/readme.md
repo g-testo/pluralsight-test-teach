@@ -30,7 +30,8 @@ Format of a programming algorithm: <br />
 // This is our algorithm:
 function sum(input1, input2){
     // This is where you return an output from your algorithm
-    return input1 + input2;
+    let sum = input1 + input2;
+    return sum;
 }
 
 // This is the invoking of our algorithm:
